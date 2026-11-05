@@ -1,4 +1,4 @@
-![Banner do projeto FightKube](FightKube/files/Banner_FightKube.png)
+![Banner do projeto FightKube](./files/Banner_FightKube.png)
 
 # FightKube
 O FightKube é um controle no padrão hitbox desenvolvido para ser uma opção nacional, projetado para entregar um alto nível de desempenho, ergonomia otimizada para mãos de tamanho mediano e alto apelo comercial a um preço altamente competitivo.  
