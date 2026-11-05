@@ -23,16 +23,16 @@ Para produzir a placa, nossa equipe utilizou os serviços de fabricação de pla
 Para realizar um pedido é muito simples. O primeiro passo é adicionar os ficheiros Gerber localizados em [Gerbers](./PCB/rev1.1/KBoard.zip) no site da JLCPCB.
 Após o envio dos arquivos, selecione as seguintes opções: 
 
-1 - Base Material: FR-4
-2 - Layers: 2
-3 - PCB Qty: Ao seu critério
-4 - Product Type: Industrial
-5 - Different Design: 1 
-6 - Delivery Format: Single PCB
-7 - PCB Thickness: 1.6mm
-8 - PCB Color: Ao seu critério
-9 - Surface Finish: HASL(with lead)
-10 - Via Covering: Plugged
+1. Base Material: FR-4
+2. Layers: 2
+3. PCB Qty: Ao seu critério
+4. Product Type: Industrial
+5. Different Design: 1 
+6. Delivery Format: Single PCB
+7. PCB Thickness: 1.6mm
+8. PCB Color: Ao seu critério
+9. Surface Finish: HASL(with lead)
+10. Via Covering: Plugged
 
 Com todas as opções selecionadas, o próximo passo é enviar os arquivos BOM e CPL localizados em [BOM](./PCB/rev1.1/kBoardBOM.csv) e [CPL](./PCB/rev1.1/kBoardCPL.csv) respectivamente.
 
