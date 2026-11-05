@@ -2,3 +2,7 @@
 
 # FightKube
 O FightKube é um controle no padrão hitbox desenvolvido para ser uma opção nacional, projetado para entregar um alto nível de desempenho, ergonomia otimizada para mãos de tamanho mediano e alto apelo comercial a um preço altamente competitivo.  
+
+![3D da parte frontal da placa](./files/KboardV1-frente.png)
+
+![3D da parte traseira da placa](./files/KboardV1-tras.png)
