@@ -19,8 +19,8 @@ A PCB foi projetada através do KiCAD. Para isso, nossa equipe fez o levantament
 do microcontrolador; um cristal oscilador para fornecer o sinal de clock do microcontrolador, garantindo as temporizações corretas; um botão para realizar a instalação do firmware na placa. 
 
 # Produção
-Para produzir a placa, nossa equipe utilizou os serviços de fabricação de placas de circuito impresso da empresa ![JLCPCB](https://jlcpcb.com).
-Para realizar um pedido é muito simples. O primeiro passo é adicionar os ficheiros Gerber localizados em [Link para os gerbers](./PCB/rev1.1/KBoard.zip) no site da JLCPCB.
+Para produzir a placa, nossa equipe utilizou os serviços de fabricação de placas de circuito impresso da empresa JLCPCB.
+Para realizar um pedido é muito simples. O primeiro passo é adicionar os ficheiros Gerber localizados em [Gerbers](./PCB/rev1.1/KBoard.zip) no site da JLCPCB.
 Após o envio dos arquivos, selecione as seguintes opções: 
 
 1 - Base Material: FR-4
@@ -34,7 +34,7 @@ Após o envio dos arquivos, selecione as seguintes opções:
 9 - Surface Finish: HASL(with lead)
 10 - Via Covering: Plugged
 
-Com todas as opções selecionadas, o próximo passo é enviar os arquivos BOM e CPL localizados em [Link para o BOM](./PCB/rev1.1/kBoardBOM.csv) e [Link para o CPL](./PCB/rev1.1/kBoardCPL.csv) respectivamente.
+Com todas as opções selecionadas, o próximo passo é enviar os arquivos BOM e CPL localizados em [BOM](./PCB/rev1.1/kBoardBOM.csv) e [CPL](./PCB/rev1.1/kBoardCPL.csv) respectivamente.
 
 
 
