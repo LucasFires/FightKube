@@ -10,4 +10,4 @@ A placa de circuito impresso (PCB) foi projetada do zero através da ferramenta 
 
 ![3D da parte traseira da placa](./files/KboardV1-tras.png)
 
-![Esquemático da placa](./files/placaarcade_page-0001.png)
+![Esquemático da placa](./files/placaarcade_page-0001.jpg)
