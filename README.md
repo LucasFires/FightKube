@@ -37,7 +37,7 @@ Após o envio dos arquivos, selecione as seguintes opções:
 Com todas as opções selecionadas, o próximo passo é enviar os arquivos BOM e CPL localizados em [BOM](./PCB/rev1.1/kBoardBOM.csv) e [CPL](./PCB/rev1.1/kBoardCPL.csv) respectivamente.
 
 # Firmware
-O firmware recomendado para ser utilizado na placa é o [GP2040-CE]([https://github.com/OpenStickCommunity/GP2040-CE]), devido à sua compatibilidade com vários dispositivos, customização e mapeamento de botões por uma interface web local, iniciada quando o controle é conectado no dispositivo. 
+O firmware recomendado para ser utilizado na placa é o [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE), devido à sua compatibilidade com vários dispositivos, customização e mapeamento de botões por uma interface web local, iniciada quando o controle é conectado no dispositivo. 
 
 # Estrutura física
 Para comportar os componentes eletrônicos, uma caixa em 3D foi projetada através do software Fusion, seguindo o layout comum em controles hitbox e respeitando os limites de tamanho aceitáveis para proporcionar ergonomia, leveza e resistência.
